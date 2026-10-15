@@ -1,5 +1,5 @@
 def add_in_base(a: str, b: str, base: int) -> str:
-    printf("%d %d,a,b);
+    printf("a")
     """
     Складывает два числа, записанных в системе счисления с основанием base.
 
