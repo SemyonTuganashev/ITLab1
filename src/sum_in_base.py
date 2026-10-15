@@ -1,5 +1,6 @@
 def add_in_base(a: str, b: str, base: int) -> str:
     printf("a")
+    pytest -v
     """
     Складывает два числа, записанных в системе счисления с основанием base.
 
