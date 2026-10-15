@@ -1,4 +1,14 @@
 def add_in_base(a: str, b: str, base: int) -> str:
+    python -m venv .venv
+
+# Linux / macOS
+source .venv/bin/activate
+
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+
+# Windows (cmd)
+.venv\Scripts\activate.bat
     """
     Складывает два числа, записанных в системе счисления с основанием base.
 
